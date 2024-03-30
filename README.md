@@ -1,7 +1,8 @@
 # 3DViewer-v1.0
-## Implementation of 3DViewer v1.0
 
-https://github.com/Garjelin/3DViewer-v1.0/blob/main/Animation_3.gif
+![3DViewer-v1.0](https://github.com/Garjelin/3DViewer-v1.0/blob/main/Animation_3.gif)
+
+## Implementation of 3DViewer v1.0
 
 The example of .obj file format:
 ```
