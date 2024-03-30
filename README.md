@@ -1,5 +1,8 @@
 # 3DViewer-v1.0
 ## Implementation of 3DViewer v1.0
+
+https://github.com/Garjelin/3DViewer-v1.0/blob/main/Animation_3.gif
+
 The example of .obj file format:
 ```
   # List of geometric vertices, with (x, y, z [,w]) coordinates, w is optional and defaults to 1.0.
